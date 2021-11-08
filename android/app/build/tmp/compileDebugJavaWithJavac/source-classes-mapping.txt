@@ -1,0 +1,14 @@
+com/meddoliveproject/ReactNativeFlipper.java
+ com.meddoliveproject.ReactNativeFlipper
+ com.meddoliveproject.ReactNativeFlipper$1
+ com.meddoliveproject.ReactNativeFlipper$2
+ com.meddoliveproject.ReactNativeFlipper$2$1
+com/meddoliveproject/BuildConfig.java
+ com.meddoliveproject.BuildConfig
+com/meddoliveproject/MainApplication.java
+ com.meddoliveproject.MainApplication
+ com.meddoliveproject.MainApplication$1
+com/meddoliveproject/MainActivity.java
+ com.meddoliveproject.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
